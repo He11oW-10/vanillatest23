@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - stagingtest
+      - stagingtest2
   pull_request:
     types: [opened, synchronize, reopened, closed]
     branches:
